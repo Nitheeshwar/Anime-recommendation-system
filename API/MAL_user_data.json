@@ -1,0 +1,2341 @@
+[
+    {
+        "node": {
+            "id": 1,
+            "title": "Cowboy Bebop",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/4/19644.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/4/19644l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 10,
+            "num_episodes_watched": 26,
+            "is_rewatching": false,
+            "updated_at": "2020-12-06T09:27:11+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 21,
+            "title": "One Piece",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1244/138851.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1244/138851l.webp"
+            }
+        },
+        "list_status": {
+            "status": "watching",
+            "score": 10,
+            "num_episodes_watched": 1005,
+            "is_rewatching": false,
+            "updated_at": "2022-08-05T18:22:34+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 9253,
+            "title": "Steins;Gate",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 10,
+            "num_episodes_watched": 24,
+            "is_rewatching": false,
+            "updated_at": "2022-07-02T22:38:06+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 28851,
+            "title": "Koe no Katachi",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1122/96435.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1122/96435l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 10,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2020-12-06T09:32:51+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 46102,
+            "title": "Odd Taxi",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1981/113348.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1981/113348l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 10,
+            "num_episodes_watched": 13,
+            "is_rewatching": false,
+            "updated_at": "2022-01-28T10:11:11+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 52991,
+            "title": "Sousou no Frieren",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1015/138006.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 10,
+            "num_episodes_watched": 28,
+            "is_rewatching": false,
+            "updated_at": "2024-05-22T23:19:26+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 6,
+            "title": "Trigun",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1130/120002.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1130/120002l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 26,
+            "is_rewatching": false,
+            "updated_at": "2021-01-02T11:11:19+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 889,
+            "title": "Black Lagoon",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1906/121592.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1906/121592l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2022-03-06T20:22:32+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 918,
+            "title": "Gintama",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 201,
+            "is_rewatching": false,
+            "updated_at": "2020-12-06T09:22:03+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 2236,
+            "title": "Toki wo Kakeru Shoujo",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1/2432.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1/2432l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2022-05-18T19:24:10+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 2418,
+            "title": "Stranger: Mukou Hadan",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/9/87066.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/9/87066l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2022-05-18T19:23:41+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 5114,
+            "title": "Fullmetal Alchemist: Brotherhood",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1208/94745.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1208/94745l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 64,
+            "is_rewatching": false,
+            "updated_at": "2021-07-16T14:14:52+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 7472,
+            "title": "Gintama Movie 1: Shinyaku Benizakura-hen",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/4/28803.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/4/28803l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2021-01-29T12:18:01+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 11061,
+            "title": "Hunter x Hunter (2011)",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1337/99013.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1337/99013l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 148,
+            "is_rewatching": false,
+            "updated_at": "2021-05-27T13:59:08+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 12859,
+            "title": "One Piece Film: Z",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/6/44297.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/6/44297l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2022-08-19T07:15:28+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 13601,
+            "title": "Psycho-Pass",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1314/142015.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1314/142015l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 22,
+            "is_rewatching": false,
+            "updated_at": "2021-01-29T12:16:29+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 17549,
+            "title": "Non Non Biyori",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/2/51581.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/2/51581l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2021-05-27T14:13:49+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 22789,
+            "title": "Barakamon",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1426/111248.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1426/111248l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2020-12-06T09:29:24+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 28977,
+            "title": "Gintama\u00b0",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/3/72078.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/3/72078l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 51,
+            "is_rewatching": false,
+            "updated_at": "2021-01-26T09:56:43+00:00",
+            "finish_date": "2020-12-05"
+        }
+    },
+    {
+        "node": {
+            "id": 30276,
+            "title": "One Punch Man",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/12/76049.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/12/76049l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2020-12-11T18:44:40+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 30831,
+            "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1895/142748.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1895/142748l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 10,
+            "is_rewatching": false,
+            "updated_at": "2021-04-29T06:44:05+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 32182,
+            "title": "Mob Psycho 100",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/8/80356.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/8/80356l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2021-04-29T06:32:37+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 32281,
+            "title": "Kimi no Na wa.",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/5/87048.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/5/87048l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2020-12-06T09:32:15+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 32937,
+            "title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/2/83188.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/2/83188l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 10,
+            "is_rewatching": false,
+            "updated_at": "2021-04-29T06:44:22+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 34096,
+            "title": "Gintama.",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/3/83528.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/3/83528l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2021-01-26T09:54:25+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 35760,
+            "title": "Shingeki no Kyojin Season 3",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1173/92110.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1173/92110l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2021-02-20T09:02:32+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 36098,
+            "title": "Kimi no Suizou wo Tabetai",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1768/93291.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1768/93291l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2020-12-06T09:34:17+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 36838,
+            "title": "Gintama. Shirogane no Tamashii-hen",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/12/89603.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/12/89603l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2021-01-15T04:50:43+00:00",
+            "finish_date": "2021-01-15"
+        }
+    },
+    {
+        "node": {
+            "id": 37450,
+            "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1301/93586.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1301/93586l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 13,
+            "is_rewatching": false,
+            "updated_at": "2021-07-15T10:58:28+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 37510,
+            "title": "Mob Psycho 100 II",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1918/96303.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1918/96303l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 13,
+            "is_rewatching": false,
+            "updated_at": "2021-04-29T06:32:48+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 37520,
+            "title": "Dororo",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1879/100467.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1879/100467l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 24,
+            "is_rewatching": false,
+            "updated_at": "2022-02-24T16:10:16+00:00",
+            "start_date": "2021-02-03"
+        }
+    },
+    {
+        "node": {
+            "id": 37779,
+            "title": "Yakusoku no Neverland",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1830/118780.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1830/118780l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2021-01-28T08:32:32+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 37999,
+            "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1295/106551.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1295/106551l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2020-12-06T10:37:35+00:00",
+            "start_date": "2020-12-06",
+            "finish_date": "2020-12-06"
+        }
+    },
+    {
+        "node": {
+            "id": 38524,
+            "title": "Shingeki no Kyojin Season 3 Part 2",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1517/100633.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1517/100633l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 10,
+            "is_rewatching": false,
+            "updated_at": "2021-02-20T09:02:46+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 38826,
+            "title": "Tenki no Ko",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1880/101146.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1880/101146l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2020-12-06T09:32:35+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 40028,
+            "title": "Shingeki no Kyojin: The Final Season",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1000/110531.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1000/110531l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 16,
+            "is_rewatching": false,
+            "updated_at": "2021-04-29T06:23:54+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 40052,
+            "title": "Great Pretender",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1418/107954.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1418/107954l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 23,
+            "is_rewatching": false,
+            "updated_at": "2020-12-28T13:16:31+00:00",
+            "finish_date": "2020-12-28"
+        }
+    },
+    {
+        "node": {
+            "id": 40591,
+            "title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1764/106659.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1764/106659l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2020-12-06T10:38:12+00:00",
+            "finish_date": "2020-12-06"
+        }
+    },
+    {
+        "node": {
+            "id": 40748,
+            "title": "Jujutsu Kaisen",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 24,
+            "is_rewatching": false,
+            "updated_at": "2021-04-29T06:24:09+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 40787,
+            "title": "Josee to Tora to Sakana-tachi",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1714/108892.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1714/108892l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2021-07-16T17:45:07+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 41120,
+            "title": "Fugou Keiji: Balance:Unlimited",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1066/106556.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1066/106556l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 11,
+            "is_rewatching": false,
+            "updated_at": "2021-09-04T05:49:32+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 42897,
+            "title": "Horimiya",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1695/111486.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1695/111486l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 13,
+            "is_rewatching": false,
+            "updated_at": "2021-07-15T10:57:49+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 43609,
+            "title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen OVA",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1027/115055.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1027/115055l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2022-08-19T07:12:34+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 48583,
+            "title": "Shingeki no Kyojin: The Final Season Part 2",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1948/120625.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1948/120625l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2022-04-17T18:39:24+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 50265,
+            "title": "Spy x Family",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1441/122795.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1441/122795l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 9,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2022-08-19T07:11:32+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 20,
+            "title": "Naruto",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1141/142503.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1141/142503l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 220,
+            "is_rewatching": false,
+            "updated_at": "2021-01-26T09:54:55+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 47,
+            "title": "Akira",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1408/114012.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1408/114012l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2022-07-02T22:46:18+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 227,
+            "title": "FLCL",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/7/77356.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/7/77356l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 6,
+            "is_rewatching": false,
+            "updated_at": "2022-07-02T22:38:35+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 269,
+            "title": "Bleach",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/3/40451.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/3/40451l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 366,
+            "is_rewatching": false,
+            "updated_at": "2021-01-26T09:54:58+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 527,
+            "title": "Pokemon",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1787/140239.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1787/140239l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 276,
+            "is_rewatching": false,
+            "updated_at": "2021-04-29T06:25:12+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 528,
+            "title": "Pokemon Movie 01: Mewtwo no Gyakushuu",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1513/140273.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1513/140273l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2022-03-06T20:18:32+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 934,
+            "title": "Higurashi no Naku Koro ni",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/12/19634.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/12/19634l.webp"
+            }
+        },
+        "list_status": {
+            "status": "on_hold",
+            "score": 8,
+            "num_episodes_watched": 4,
+            "is_rewatching": false,
+            "updated_at": "2022-08-19T07:16:08+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 1519,
+            "title": "Black Lagoon: The Second Barrage",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/3/83748.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/3/83748l.webp"
+            }
+        },
+        "list_status": {
+            "status": "on_hold",
+            "score": 8,
+            "num_episodes_watched": 7,
+            "is_rewatching": false,
+            "updated_at": "2021-09-05T14:37:34+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 1535,
+            "title": "Death Note",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 37,
+            "is_rewatching": false,
+            "updated_at": "2022-07-02T22:38:54+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 1689,
+            "title": "Byousoku 5 Centimeter",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1410/112994.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1410/112994l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 3,
+            "is_rewatching": false,
+            "updated_at": "2022-03-06T20:22:44+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 1735,
+            "title": "Naruto: Shippuuden",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1565/111305.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1565/111305l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 500,
+            "is_rewatching": false,
+            "updated_at": "2020-12-06T09:26:51+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 5962,
+            "title": "Metal Fight Beyblade",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/13/21387.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/13/21387l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 51,
+            "is_rewatching": false,
+            "updated_at": "2021-04-29T06:58:35+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 7674,
+            "title": "Bakuman.",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/6/26138.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/6/26138l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 25,
+            "is_rewatching": false,
+            "updated_at": "2022-07-02T22:39:23+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 8247,
+            "title": "Bleach Movie 4: Jigoku-hen",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1554/134492.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1554/134492l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2020-12-06T09:31:16+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 8410,
+            "title": "Metal Fight Beyblade: Baku",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1216/129561.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1216/129561l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 51,
+            "is_rewatching": false,
+            "updated_at": "2021-04-29T06:57:58+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 9969,
+            "title": "Gintama'",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/4/50361.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/4/50361l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 51,
+            "is_rewatching": false,
+            "updated_at": "2020-12-06T09:23:45+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 10370,
+            "title": "Metal Fight Beyblade 4D",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1010/116629.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1010/116629l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 52,
+            "is_rewatching": false,
+            "updated_at": "2021-04-29T06:58:17+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 10863,
+            "title": "Steins;Gate: Oukoubakko no Poriomania",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1805/123188.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1805/123188l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2022-07-04T03:51:43+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 15335,
+            "title": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/10/51723.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/10/51723l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2021-07-17T13:51:13+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 15417,
+            "title": "Gintama': Enchousen",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1452/123686.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1452/123686l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 13,
+            "is_rewatching": false,
+            "updated_at": "2020-12-06T09:23:52+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 16498,
+            "title": "Shingeki no Kyojin",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/10/47347.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/10/47347l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 25,
+            "is_rewatching": false,
+            "updated_at": "2021-04-29T06:26:06+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 16782,
+            "title": "Kotonoha no Niwa",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1597/112995.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1597/112995l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2022-03-06T20:22:49+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 16870,
+            "title": "The Last: Naruto the Movie",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1491/134498.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1491/134498l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2022-03-06T20:22:57+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 18397,
+            "title": "Shingeki no Kyojin OVA",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/9/59221.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/9/59221l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 3,
+            "is_rewatching": false,
+            "updated_at": "2021-02-20T09:01:50+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 19291,
+            "title": "Pokemon XY",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1759/140263.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1759/140263l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 93,
+            "is_rewatching": false,
+            "updated_at": "2022-03-06T20:19:06+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 20507,
+            "title": "Noragami",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1886/128266.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1886/128266l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2020-12-12T07:40:15+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 22319,
+            "title": "Tokyo Ghoul",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1498/134443.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1498/134443l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2020-12-06T09:42:59+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 22535,
+            "title": "Kiseijuu: Sei no Kakuritsu",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/3/73178.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 24,
+            "is_rewatching": false,
+            "updated_at": "2022-08-05T18:21:38+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 24833,
+            "title": "Ansatsu Kyoushitsu",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/5/75639.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/5/75639l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 22,
+            "is_rewatching": false,
+            "updated_at": "2021-07-16T14:16:08+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 25777,
+            "title": "Shingeki no Kyojin Season 2",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/4/84177.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/4/84177l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2021-04-29T06:26:16+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 28755,
+            "title": "Boruto: Naruto the Movie",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/4/78280.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/4/78280l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2021-07-16T14:24:00+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 30503,
+            "title": "Noragami Aragoto",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1689/94850.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1689/94850l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 13,
+            "is_rewatching": false,
+            "updated_at": "2021-07-16T14:16:24+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 30654,
+            "title": "Ansatsu Kyoushitsu 2nd Season",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/8/77966.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/8/77966l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 25,
+            "is_rewatching": false,
+            "updated_at": "2021-07-16T14:16:14+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 31592,
+            "title": "Pokemon XY&Z",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1627/140267.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1627/140267l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 47,
+            "is_rewatching": false,
+            "updated_at": "2022-03-06T20:19:19+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 31722,
+            "title": "Nanatsu no Taizai: Seisen no Shirushi",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/13/79331.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/13/79331l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 4,
+            "is_rewatching": false,
+            "updated_at": "2021-04-29T06:35:30+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 31964,
+            "title": "Boku no Hero Academia",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 13,
+            "is_rewatching": false,
+            "updated_at": "2022-03-06T20:19:25+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 32093,
+            "title": "Tanaka-kun wa Itsumo Kedaruge",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1189/111994.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1189/111994l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "on_hold",
+            "score": 8,
+            "num_episodes_watched": 8,
+            "is_rewatching": false,
+            "updated_at": "2022-03-10T05:16:13+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 32365,
+            "title": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/6/77678.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/6/77678l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2020-12-06T09:25:28+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 33206,
+            "title": "Kobayashi-san Chi no Maid Dragon",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/5/85434.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/5/85434l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 13,
+            "is_rewatching": false,
+            "updated_at": "2022-08-05T18:52:31+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 33486,
+            "title": "Boku no Hero Academia 2nd Season",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/12/85221l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 25,
+            "is_rewatching": false,
+            "updated_at": "2022-03-06T20:19:38+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 33988,
+            "title": "Demi-chan wa Kataritai",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/8/83417.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/8/83417l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2022-06-11T20:02:03+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 34134,
+            "title": "One Punch Man 2nd Season",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1247/122044.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1247/122044l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2020-12-22T16:29:18+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 35823,
+            "title": "Demi-chan wa Kataritai: Demi-chan no Natsuyasumi",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/6/88769.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/6/88769l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2022-06-11T20:02:15+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 36241,
+            "title": "One Piece Film: Gold - Cine Mike Popcorn Kokuchi",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/2/87542.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/2/87542l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2022-08-19T07:15:09+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 36456,
+            "title": "Boku no Hero Academia 3rd Season",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1319/92084l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 25,
+            "is_rewatching": false,
+            "updated_at": "2021-01-02T11:10:18+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 36896,
+            "title": "Boku no Hero Academia the Movie 1: Futari no Hero",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1736/93138.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1736/93138l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2021-04-29T06:44:51+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 37430,
+            "title": "Tensei shitara Slime Datta Ken",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1069/123309.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1069/123309l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 24,
+            "is_rewatching": false,
+            "updated_at": "2020-12-08T15:38:33+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 37491,
+            "title": "Gintama. Shirogane no Tamashii-hen - Kouhan-sen",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1776/96566.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1776/96566l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 14,
+            "is_rewatching": false,
+            "updated_at": "2021-01-15T04:53:11+00:00",
+            "finish_date": "2021-01-15"
+        }
+    },
+    {
+        "node": {
+            "id": 37976,
+            "title": "Zombieland Saga",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1084/128208.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1084/128208l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2022-01-29T14:50:20+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 38000,
+            "title": "Kimetsu no Yaiba",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1286/99889.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 26,
+            "is_rewatching": false,
+            "updated_at": "2021-01-28T08:32:56+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 38101,
+            "title": "5-toubun no Hanayome",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1819/97947.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1819/97947l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2022-03-06T20:20:10+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 38234,
+            "title": "One Piece Movie 14: Stampede",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1221/100550.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1221/100550l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2022-05-18T17:37:32+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 38408,
+            "title": "Boku no Hero Academia 4th Season",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1412/107914.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1412/107914l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 25,
+            "is_rewatching": false,
+            "updated_at": "2021-04-29T06:30:12+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 38691,
+            "title": "Dr. Stone",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1613/102576.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1613/102576l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 24,
+            "is_rewatching": false,
+            "updated_at": "2022-07-02T22:42:38+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 38699,
+            "title": "Boku no Hero Academia the Movie 1: Futari no Hero Specials",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1420/96793.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1420/96793l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 2,
+            "is_rewatching": false,
+            "updated_at": "2021-04-29T06:45:13+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 38793,
+            "title": "Tensei shitara Slime Datta Ken OVA",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1230/118297.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1230/118297l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 5,
+            "is_rewatching": false,
+            "updated_at": "2022-02-06T07:40:24+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 39175,
+            "title": "Cider no You ni Kotoba ga Wakiagaru",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1952/116031.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1952/116031l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2021-09-05T14:36:10+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 39551,
+            "title": "Tensei shitara Slime Datta Ken 2nd Season",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1271/109841.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1271/109841l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2021-07-16T14:23:12+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 39565,
+            "title": "Boku no Hero Academia the Movie 2: Heroes:Rising",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1019/103292.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1019/103292l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2021-04-29T06:45:02+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 39783,
+            "title": "5-toubun no Hanayome \u222c",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1775/109514.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1775/109514l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2022-03-06T20:20:14+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 40174,
+            "title": "Zombieland Saga Revenge",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1118/115156.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1118/115156l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2022-01-29T14:50:29+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 41487,
+            "title": "Tensei shitara Slime Datta Ken 2nd Season Part 2",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1033/118296.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1033/118296l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2022-01-10T09:09:31+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 42249,
+            "title": "Tokyo Revengers",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1839/122012.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1839/122012l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 24,
+            "is_rewatching": false,
+            "updated_at": "2022-07-02T22:41:13+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 43692,
+            "title": "Gokushufudou",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1535/117726.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1535/117726l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 5,
+            "is_rewatching": false,
+            "updated_at": "2022-07-02T22:40:48+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 48736,
+            "title": "Sono Bisque Doll wa Koi wo Suru",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2022-04-17T18:39:01+00:00",
+            "start_date": "2022-04-08"
+        }
+    },
+    {
+        "node": {
+            "id": 48926,
+            "title": "Komi-san wa, Comyushou desu.",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1899/117237.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1899/117237l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2022-07-02T22:40:39+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 50346,
+            "title": "Yofukashi no Uta",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1045/123711.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1045/123711l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 8,
+            "num_episodes_watched": 13,
+            "is_rewatching": false,
+            "updated_at": "2022-09-30T10:16:21+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 52701,
+            "title": "Dungeon Meshi",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1711/142478.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1711/142478l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "watching",
+            "score": 8,
+            "num_episodes_watched": 24,
+            "is_rewatching": false,
+            "updated_at": "2024-06-08T18:09:52+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 43,
+            "title": "Koukaku Kidoutai",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/10/82594.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/10/82594l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 7,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2022-07-02T22:38:26+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 199,
+            "title": "Sen to Chihiro no Kamikakushi",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/6/79597.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/6/79597l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 7,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2021-01-26T09:55:42+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 1564,
+            "title": "Pokemon Advanced Generation",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1036/142698.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1036/142698l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 7,
+            "num_episodes_watched": 192,
+            "is_rewatching": false,
+            "updated_at": "2021-07-16T14:18:13+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 1565,
+            "title": "Pokemon Diamond & Pearl",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1425/142699.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1425/142699l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 7,
+            "num_episodes_watched": 191,
+            "is_rewatching": false,
+            "updated_at": "2021-07-16T14:18:36+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 23755,
+            "title": "Nanatsu no Taizai",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/8/65409.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/8/65409l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 7,
+            "num_episodes_watched": 24,
+            "is_rewatching": false,
+            "updated_at": "2021-04-29T06:34:41+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 24439,
+            "title": "Kekkai Sensen",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1449/142053.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1449/142053l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 7,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2022-07-04T03:53:08+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 28999,
+            "title": "Charlotte",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/12/74683.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/12/74683l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 7,
+            "num_episodes_watched": 13,
+            "is_rewatching": false,
+            "updated_at": "2021-04-29T06:37:54+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 31490,
+            "title": "One Piece Film: Gold",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1081/137690.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1081/137690l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 7,
+            "num_episodes_watched": 1,
+            "is_rewatching": false,
+            "updated_at": "2022-08-19T07:14:36+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 33743,
+            "title": "Fuuka",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/8/83735.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/8/83735l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 7,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2022-04-14T17:15:51+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 41587,
+            "title": "Boku no Hero Academia 5th Season",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1911/113611.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1911/113611l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 7,
+            "num_episodes_watched": 25,
+            "is_rewatching": false,
+            "updated_at": "2022-04-17T18:40:54+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 9107,
+            "title": "Pokemon Best Wishes!",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/7/26135.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/7/26135l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 6,
+            "num_episodes_watched": 84,
+            "is_rewatching": false,
+            "updated_at": "2021-07-16T14:20:13+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 14093,
+            "title": "Pokemon Best Wishes! Season 2",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1904/140254.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1904/140254l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 6,
+            "num_episodes_watched": 24,
+            "is_rewatching": false,
+            "updated_at": "2021-07-16T14:20:34+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 30347,
+            "title": "Nanatsu no Taizai OVA",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1973/97505.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1973/97505l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 6,
+            "num_episodes_watched": 2,
+            "is_rewatching": false,
+            "updated_at": "2022-07-04T03:53:25+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 48556,
+            "title": "Takt Op. Destiny",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1449/117797.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1449/117797l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 6,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2022-07-04T03:53:35+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 34577,
+            "title": "Nanatsu no Taizai: Imashime no Fukkatsu",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/11/90089.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/11/90089l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 5,
+            "num_episodes_watched": 24,
+            "is_rewatching": false,
+            "updated_at": "2021-12-29T07:07:59+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 38671,
+            "title": "Enen no Shouboutai",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1664/103275.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1664/103275l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 5,
+            "num_episodes_watched": 24,
+            "is_rewatching": false,
+            "updated_at": "2022-07-04T03:53:51+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 41226,
+            "title": "Uzaki-chan wa Asobitai!",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1540/108292.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1540/108292l.webp"
+            }
+        },
+        "list_status": {
+            "status": "completed",
+            "score": 5,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2022-07-04T03:54:05+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 40956,
+            "title": "Enen no Shouboutai: Ni no Shou",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1673/107657.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1673/107657l.webp"
+            }
+        },
+        "list_status": {
+            "status": "dropped",
+            "score": 4,
+            "num_episodes_watched": 12,
+            "is_rewatching": false,
+            "updated_at": "2022-02-24T16:53:43+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 39701,
+            "title": "Nanatsu no Taizai: Kamigami no Gekirin",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1546/103418.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1546/103418l.webp"
+            }
+        },
+        "list_status": {
+            "status": "dropped",
+            "score": 3,
+            "num_episodes_watched": 19,
+            "is_rewatching": false,
+            "updated_at": "2022-02-24T16:53:29+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 41353,
+            "title": "The God of High School",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1722/107269.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1722/107269l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "dropped",
+            "score": 2,
+            "num_episodes_watched": 6,
+            "is_rewatching": false,
+            "updated_at": "2022-08-19T07:10:20+00:00",
+            "start_date": "2021-10-08"
+        }
+    },
+    {
+        "node": {
+            "id": 249,
+            "title": "InuYasha",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1589/95329.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1589/95329l.webp"
+            }
+        },
+        "list_status": {
+            "status": "on_hold",
+            "score": 0,
+            "num_episodes_watched": 9,
+            "is_rewatching": false,
+            "updated_at": "2021-07-16T14:14:23+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 20057,
+            "title": "Space\u2606Dandy",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/4/56611.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/4/56611l.jpg"
+            }
+        },
+        "list_status": {
+            "status": "watching",
+            "score": 0,
+            "num_episodes_watched": 0,
+            "is_rewatching": false,
+            "updated_at": "2022-03-10T05:17:19+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 36649,
+            "title": "Banana Fish",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1190/93472.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1190/93472l.webp"
+            }
+        },
+        "list_status": {
+            "status": "on_hold",
+            "score": 0,
+            "num_episodes_watched": 6,
+            "is_rewatching": false,
+            "updated_at": "2021-09-05T14:37:21+00:00"
+        }
+    },
+    {
+        "node": {
+            "id": 38659,
+            "title": "Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1715/103419.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1715/103419l.webp"
+            }
+        },
+        "list_status": {
+            "status": "on_hold",
+            "score": 0,
+            "num_episodes_watched": 6,
+            "is_rewatching": false,
+            "updated_at": "2021-07-16T14:06:10+00:00"
+        }
+    }
+]
