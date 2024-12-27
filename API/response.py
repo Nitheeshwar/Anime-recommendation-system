@@ -4,8 +4,8 @@ import json
 
 base_url = "https://api.myanimelist.net/v2/users/@me/animelist?fields=list_status&sort=list_score"
 
-token_file = 'D:/Nitty/Personal Projects/Reccomendation system/API/key.json'
-output_file = 'D:/Nitty/Personal Projects/Reccomendation system/API/MAL_user_data.json'
+token_file = 'D:/Nitty/Personal Projects/Anime-recommendation-system/API/key.json'
+output_file = 'D:/Nitty/Personal Projects/Anime-recommendation-system/API/MAL_user_data.json'
 
 with open(token_file) as f:
     data = json.load(f)
