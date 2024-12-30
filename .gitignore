@@ -3,3 +3,6 @@ API/key_saf.json
 API/key.json
 anime_dataset/*
 anime/*
+backend/\__pycache__
+frontend/\__pycache__
+API/\__pycache__
